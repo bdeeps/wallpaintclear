@@ -1,0 +1,109 @@
+{
+  "slug": "wallpaintclear",
+  "box": 161,
+  "date": "2026-10-10",
+  "title": "WallPaintClear",
+  "question": "How does wall paint work?",
+  "hook": "A coat of wall paint is thinner than a hair, yet it hides a black wall. Watch millions of soft plastic balls squash into one film, follow photons lost in a maze of titanium dioxide, tint a white base, and find out why damp walls blister.",
+  "thumbText": "HOW WALL PAINT WORKS",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "wall paint",
+    "emulsion paint",
+    "titanium dioxide",
+    "latex film formation",
+    "light scattering",
+    "Kubelka-Munk",
+    "pigment",
+    "limewash",
+    "distemper",
+    "lead paint",
+    "efflorescence",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A liquid that becomes a skin",
+      "text": "Paint is four things: pigment (the powder you see), binder (the glue that becomes the film), a carrier that leaves (water or solvent) and a few per cent of additives. In an emulsion the binder is millions of soft polymer balls, 0.1 to 0.5 micrometres wide, afloat in water. On the wall, plaster, putty, primer and two topcoats make a stack; all the paint together is about a tenth of a millimetre thick."
+    },
+    {
+      "title": "Drying is three steps, not one",
+      "text": "Water evaporates and the balls crowd until they touch. The last water presses them into a honeycomb, but only if the wall is warmer than the paint's minimum film-forming temperature. Then polymer chains wander across the old boundaries and the honeycomb becomes one film: touch dry within the hour, fully hard in a week or two. Oil enamel instead hardens when oxygen cross-links it, and limewash by taking carbon dioxide from the air and turning back into limestone."
+    },
+    {
+      "title": "White hides by scattering",
+      "text": "White pigment absorbs almost nothing. Light bounces wherever the refractive index jumps, and titanium dioxide at about 2.7 against binder at 1.5 is the biggest jump of any common white pigment. A photon is knocked from grain to grain and usually stumbles back out before it reaches the wall. Chalk, at 1.6, almost vanishes in binder. The best grain size is about half the wavelength of light, 0.2 to 0.3 micrometres."
+    },
+    {
+      "title": "Colour subtracts, roughness dulls",
+      "text": "Coloured pigments take wavelengths away: iron oxides soak up blue, phthalocyanine blue soaks up red, carbon black takes everything. A shop's tinting machine doses a few millilitres of strong colourants into a white base. Sheen is set by the surface: plenty of binder gives a smooth, glossy, washable film; a film crowded with powder is rough and matt, and hides the bumps in a wall."
+    },
+    {
+      "title": "Thick, thin, thick again",
+      "text": "Paint is shear-thinning: about 80 Pa·s at rest, so pigment barely sinks, and hundreds of times thinner under the brush. It then takes a few seconds to thicken again, which is when surface tension flattens the brush marks. Coverage is a sum: square metres per litre = 10 × volume solids (%) ÷ dry film thickness (µm), so 38% solids at 30 µm covers about 12.7 m² a coat."
+    },
+    {
+      "title": "Most failures are water, and the label matters",
+      "text": "Blisters and peeling are water trapped behind a film that cannot pass it; the white bloom on monsoon walls is salt left by evaporating water; algae needs a surface that stays damp. Fix the damp before repainting. In India, household and decorative paint may not hold more than 90 parts per million of lead (rules notified in 2016, in force since 1 November 2017). The World Health Organization says there is no known safe level of lead in blood."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pigment",
+      "def": "Fine solid powder that gives paint its colour and hiding power; it does not dissolve."
+    },
+    {
+      "term": "Binder",
+      "def": "The film-forming part of paint that glues the pigment to the wall: acrylic latex, alkyd resin, oil, lime or glue."
+    },
+    {
+      "term": "Latex",
+      "def": "Tiny balls of polymer floating in water, 0.1 to 0.5 micrometres wide, which fuse into a film as the water leaves."
+    },
+    {
+      "term": "Coalescence",
+      "def": "Separate polymer balls squashing together and fusing into one continuous film as their chains mix across the boundaries."
+    },
+    {
+      "term": "Minimum film-forming temperature (MFFT)",
+      "def": "The coldest wall on which a latex paint can still fuse into a film instead of a powder."
+    },
+    {
+      "term": "Refractive index",
+      "def": "How much a material slows light. Light scatters where the index changes, and more for a bigger change."
+    },
+    {
+      "term": "Pigment volume concentration (PVC)",
+      "def": "The pigment and extender as a share of the dry film by volume. Low PVC is glossy and tough, high PVC is matt and porous."
+    },
+    {
+      "term": "Shear-thinning",
+      "def": "Getting thinner the faster it is stirred or brushed, and thick again at rest."
+    },
+    {
+      "term": "Efflorescence",
+      "def": "White salt crystals left on a wall when water carrying dissolved salts evaporates at the surface."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "wallpaintclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

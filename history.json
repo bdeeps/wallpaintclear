@@ -1,0 +1,894 @@
+{
+  "title": "The history of wall paint",
+  "tagline": "A hundred thousand years from ground ochre in a shell to a film of plastic and titanium white, and the long work of taking the lead out.",
+  "intro": "People have coloured walls with earth pigments for as long as there have been walls. For two thousand years the best white was a poison, and paint was ground by hand on the job. In the twentieth century chemistry replaced nearly every ingredient: titanium dioxide for white lead, alkyd and then acrylic latex for linseed oil, water for solvent. The laws that removed lead came much later than the knowledge that it harmed.",
+  "eras": [
+    {
+      "id": "earth",
+      "name": "Earth, lime and glue",
+      "from": -100000,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "Ochres, charcoal, chalk and lime, bound with fat, glue, milk or oil. Walls are built up in layers of mud or lime plaster before the colour goes on."
+    },
+    {
+      "id": "oil",
+      "name": "Oil, lead and factories",
+      "from": 1700,
+      "to": 1915,
+      "color": "#ffb547",
+      "summary": "Chemists invent new colours, linseed oil and white lead rule house painting, and paint moves from the painter's slab to the factory and the tin."
+    },
+    {
+      "id": "synth",
+      "name": "Chemistry takes over",
+      "from": 1916,
+      "to": 1960,
+      "color": "#ff7a59",
+      "summary": "Titanium dioxide replaces white lead, alkyds replace raw oil, and wartime rubber chemistry gives the water-based latex paint."
+    },
+    {
+      "id": "safe",
+      "name": "Safer and cleaner",
+      "from": 1960,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "Countries ban lead from house paint one by one, solvent limits arrive, and coatings take on new jobs such as cooling roofs."
+    }
+  ],
+  "events": [
+    {
+      "year": -100000,
+      "date": "c. 100,000 years ago",
+      "era": "earth",
+      "art": "palette",
+      "key": true,
+      "title": "A paint kit in a cave",
+      "who": "Early Homo sapiens",
+      "where": "Blombos Cave, South Africa",
+      "country": "South Africa",
+      "text": "Archaeologists at Blombos Cave found an ochre-rich mixture about 100,000 years old that could have been used as paint. A 2011 report described a complete kit there for grinding pigment and mixing a paint-like liquid.",
+      "why": "Paint is among the oldest of all human-made materials: ground colour, a liquid, something to mix them in.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": -17000,
+      "date": "c. 17,000 to 22,000 years ago",
+      "era": "earth",
+      "art": "horse",
+      "title": "The painted cave",
+      "who": "Magdalenian artists",
+      "where": "Lascaux, France",
+      "country": "France",
+      "text": "Nearly 6,000 figures cover the walls of Lascaux. The colours are iron oxides (ochre, haematite, goethite) and manganese minerals, swabbed on, blotted or blown through a tube.",
+      "why": "The same iron oxide pigments still colour wall paint today, because sunlight cannot fade them.",
+      "box": "colour",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": -10000,
+      "date": "from c. 10,000 BCE",
+      "era": "earth",
+      "art": "person",
+      "key": true,
+      "title": "Bhimbetka's painted shelters",
+      "who": "Mesolithic and later artists",
+      "where": "Bhimbetka, Madhya Pradesh, India",
+      "country": "India",
+      "text": "More than 700 rock shelters south of Bhopal hold paintings in red, white and yellow, with red haematite, black manganese oxides and charcoal among the pigments. The earliest are dated to about 10,000 BCE; the archaeologist V. S. Wakankar, who reported the site in 1957, argued that some are far older.",
+      "why": "It is India's longest record of people making paint from the earth around them.",
+      "box": "colour",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": -3250,
+      "date": "c. 3250 BCE",
+      "era": "earth",
+      "art": "flask",
+      "title": "Egyptian blue, the first made pigment",
+      "who": "Egyptian craftsmen",
+      "where": "Hierakonpolis, Egypt",
+      "country": "Egypt",
+      "text": "Egyptians heated sand, a copper mineral, lime and a little alkali to about 800 to 1,000 °C and got a blue calcium copper silicate. The earliest known piece coloured with it is a bowl of about 3250 BCE.",
+      "why": "It is considered the first synthetic pigment: colour made by chemistry and not dug from the ground.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": -300,
+      "date": "c. 300 BCE",
+      "era": "earth",
+      "art": "scroll",
+      "title": "White lead is described",
+      "who": "Theophrastus",
+      "where": "Greece",
+      "country": "Greece",
+      "text": "The Greek writer Theophrastus described making white lead by letting lead corrode over vinegar. The dense white powder mixed smoothly with oil and covered well, and it stayed the main white of paint for more than two thousand years.",
+      "why": "It was also a slow poison, a fact that took until the twentieth century to act on.",
+      "box": "hide",
+      "sources": [
+        8,
+        1
+      ]
+    },
+    {
+      "year": 470,
+      "date": "c. 460 to 480 CE",
+      "era": "earth",
+      "art": "colour",
+      "key": true,
+      "title": "The Ajanta murals",
+      "who": "Painters of the Vakataka period",
+      "where": "Ajanta, Maharashtra, India",
+      "country": "India",
+      "text": "The great murals of the Ajanta caves were painted on rock walls levelled with earthen plaster and a thin white ground of lime or kaolin. The colours, bound with glue, were laid on after the plaster had dried: tempera, or dry fresco, and not true fresco. The pigments were ochres, lamp soot, kaolin, a green earth and imported lapis lazuli.",
+      "why": "A wall built up in layers before the colour goes on: the same idea as today's plaster, putty, primer and topcoat.",
+      "box": "anatomy",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 550,
+      "date": "5th to 7th century CE",
+      "era": "earth",
+      "art": "quill",
+      "title": "A manual of painting",
+      "who": "Compilers of the Chitrasutra",
+      "where": "India",
+      "country": "India",
+      "text": "The Chitrasutra, a section of the Vishnudharmottara Purana, sets out the branches, methods and ideals of Indian painting. Scholars date the text to between the 5th and the 7th century CE.",
+      "why": "It is one of the oldest surviving written treatises on painting from anywhere.",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 650,
+      "date": "c. 650 CE",
+      "era": "earth",
+      "art": "mountain",
+      "title": "The oldest known oil paintings",
+      "who": "Buddhist painters",
+      "where": "Bamiyan, Afghanistan",
+      "country": "Afghanistan",
+      "text": "Murals in caves of the Bamiyan valley were painted with walnut and poppy-seed oils. They are the oldest known paintings in oil.",
+      "why": "Drying oils harden by reacting with oxygen, the chemistry that every oil and enamel paint still relies on.",
+      "box": "dry",
+      "sources": [
+        0,
+        35
+      ]
+    },
+    {
+      "year": 1706,
+      "date": "c. 1706",
+      "era": "oil",
+      "art": "inkpot",
+      "title": "Prussian blue, by accident",
+      "who": "Johann Jacob Diesbach",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "The colour maker Diesbach was trying to make a red when contaminated potash gave him a deep blue. Sold from about 1708, it quickly replaced costly ultramarine.",
+      "why": "It is called the first modern synthetic pigment, and it opened the age of colours made in factories.",
+      "box": "colour",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1845,
+      "date": "1845",
+      "era": "oil",
+      "art": "scales",
+      "title": "Zinc white at scale",
+      "who": "Edme-Jean Leclaire",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Guyton de Morveau had proposed replacing white lead with zinc oxide in about 1782. In 1845 the house painter Leclaire was making zinc white oil paint on a large scale in Paris, and by 1850 it was made across Europe.",
+      "why": "It was the first practical white that did not poison the people who made and used it.",
+      "box": "hide",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1875,
+      "date": "1866 to 1875",
+      "era": "oil",
+      "art": "drum",
+      "key": true,
+      "title": "Paint ready to use",
+      "who": "Henry Sherwin and Edward Williams",
+      "where": "Cleveland, Ohio, USA",
+      "country": "USA",
+      "text": "Until then, painters bought dry pigment and oil and ground their own paint. The firm that Sherwin joined in 1866 began in 1875 to sell paint already mixed, ready to use from the tin.",
+      "why": "Paint became a product with a recipe and a label, and no longer a craft done on site.",
+      "box": "anatomy",
+      "sources": [
+        12,
+        0
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "oil",
+      "art": "building",
+      "key": true,
+      "title": "A paint works at Howrah",
+      "who": "A. N. Turner and A. C. Wright",
+      "where": "Howrah, West Bengal, India",
+      "country": "India",
+      "text": "Two British entrepreneurs founded Shalimar Paints and set up a large paint works at Howrah, across the river from Calcutta. It is described as the first such plant in South East Asia.",
+      "why": "It is among the earliest paint factories in India, and the company still trades.",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "oil",
+      "art": "word",
+      "key": true,
+      "title": "France bans white lead in buildings",
+      "who": "French parliament",
+      "where": "France",
+      "country": "France",
+      "text": "A French law of 1909 banned lead paints for painting the inside and outside of all buildings. Painters' unions and doctors had campaigned against white lead for years.",
+      "why": "It was one of the first laws anywhere to put a pigment's harm ahead of its usefulness.",
+      "box": "wrong",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1916,
+      "date": "1916",
+      "era": "synth",
+      "art": "earth",
+      "key": true,
+      "title": "Titanium white goes into production",
+      "who": "Peder Farup and Gustav Jebsen; Titanium Pigment Company",
+      "where": "Fredrikstad, Norway and Niagara Falls, USA",
+      "country": "Norway",
+      "text": "The Norwegian chemists Farup and Jebsen worked out how to get white titanium dioxide from black ilmenite ore with sulfuric acid. In 1916 a Norwegian company and an American one both began making the pigment in quantity.",
+      "why": "Titanium dioxide bends light more than any other white powder and is not a poison. It replaced white lead and is the white in nearly all paint today.",
+      "box": "hide",
+      "sources": [
+        2,
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "19 November 1921",
+      "era": "synth",
+      "art": "scroll",
+      "title": "A treaty against white lead",
+      "who": "International Labour Organization",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "The ILO adopted the White Lead (Painting) Convention to restrict white lead in paint. It came into force in 1923. Several large producing countries, among them the United States, the United Kingdom and India, never ratified it.",
+      "why": "The danger was agreed on a century ago; the laws took far longer.",
+      "box": "wrong",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1927",
+      "era": "synth",
+      "art": "molecule",
+      "title": "Alkyd resin",
+      "who": "Roy H. Kienle",
+      "where": "General Electric, Schenectady, USA",
+      "country": "USA",
+      "text": "At General Electric, Kienle modified a hard glycerol and phthalic resin with drying oils and filed a patent application in January 1927. The result dissolved in solvent and dried in air to a tough film.",
+      "why": "Alkyds became the binder of most oil-based enamels, and still are.",
+      "box": "dry",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "synth",
+      "art": "lens",
+      "title": "A sum for hiding",
+      "who": "Paul Kubelka and Franz Munk",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Kubelka and Munk published a short paper on the optics of paint layers. With one number for scattering and one for absorption, it tells how a coat changes the colour of what is under it.",
+      "why": "Colour matching and hiding-power tests in the paint industry still rest on it.",
+      "box": "hide",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "synth",
+      "art": "colorwheel",
+      "title": "Phthalo blue",
+      "who": "ICI and I.G. Farben",
+      "where": "United Kingdom and Germany",
+      "country": "United Kingdom",
+      "text": "An intensely blue by-product first seen in 1927 turned out to be copper phthalocyanine. It was launched as a pigment in Britain and Germany in 1935.",
+      "why": "Strong, lightfast and cheap, it became the standard blue and green of paints and tinting machines.",
+      "box": "colour",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "1940",
+      "era": "synth",
+      "art": "wrench",
+      "title": "The paint roller",
+      "who": "Norman Breakey; rival claims by Richard Adams and Fride Dahlstrom",
+      "where": "Canada and USA",
+      "country": "Canada",
+      "text": "Norman Breakey of Canada made and patented a paint roller in 1940. In the United States Fride Dahlstrom filed a similar patent the same year and Richard Adams another in 1942, so who was first is disputed.",
+      "why": "A roller lays a wall coat several times faster than a brush, which made painting a home job.",
+      "box": "flow",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "1941",
+      "era": "synth",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Kem-Tone: paint thinned with water",
+      "who": "Sherwin-Williams chemists",
+      "where": "Cleveland, Ohio, USA",
+      "country": "USA",
+      "text": "With linseed oil rationed in wartime, the company brought out a wall paint whose binder of casein and oil was emulsified in water. The American Chemical Society calls it the first commercially successful, durable waterborne interior wall paint.",
+      "why": "It showed that a wall paint could be thinned with water, dry fast and wash afterwards.",
+      "box": "dry",
+      "sources": [
+        21,
+        12
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "February 1942",
+      "era": "synth",
+      "art": "person",
+      "title": "A paint company in a garage",
+      "who": "Champaklal Choksey, Chimanlal Choksi, Suryakant Dani and Arvind Vakil",
+      "where": "Girgaon, Bombay, India",
+      "country": "India",
+      "text": "During the Second World War a temporary ban on paint imports left a gap in the Indian market. Four friends began making paint in a garage in Bombay; by 1967 their firm, Asian Paints, was the country's leading paint maker.",
+      "why": "Indian-owned makers went on to supply most of the country's paint.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1948",
+      "era": "synth",
+      "art": "cell",
+      "title": "Latex paint for the home",
+      "who": "Glidden",
+      "where": "USA",
+      "country": "USA",
+      "text": "Synthetic rubber latex, perfected in wartime, was turned into wall paint. Glidden's Spred Satin of 1948 was among the first latex wall paints sold to the public.",
+      "why": "The binder was now tiny polymer balls in water, which fuse into a film as the water leaves: the modern emulsion paint.",
+      "box": "dry",
+      "sources": [
+        23,
+        27
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953 (some accounts say 1952)",
+      "era": "synth",
+      "art": "molecule",
+      "key": true,
+      "title": "The acrylic emulsion",
+      "who": "Rohm and Haas",
+      "where": "Philadelphia, USA",
+      "country": "USA",
+      "text": "Rohm and Haas introduced Rhoplex AC-33, an acrylic polymer emulsion made as a binder for house paint.",
+      "why": "Acrylics resist sunlight and water far better than earlier latexes. They are the binder of good exterior and interior emulsions today.",
+      "box": "dry",
+      "sources": [
+        24,
+        26
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1967 to 1972",
+      "era": "safe",
+      "art": "spotlight",
+      "title": "Titanium dioxide and light",
+      "who": "Akira Fujishima and Kenichi Honda",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "Fujishima found in 1967, and published in 1972, that titanium dioxide under ultraviolet light can split water. The same activity lets the pigment slowly attack the paint binder around it.",
+      "why": "It explains chalking of paint in sunlight, and it led to self-cleaning and air-cleaning coatings.",
+      "box": "wrong",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1977 to 1978",
+      "era": "safe",
+      "art": "scales",
+      "title": "The United States bans lead house paint",
+      "who": "Consumer Product Safety Commission",
+      "where": "USA",
+      "country": "USA",
+      "text": "The Commission banned paint with more than 0.06% lead for homes and consumer use, with effect from 1978. In 2009 the limit fell to 0.009%, which is 90 parts per million.",
+      "why": "Homes painted before the ban still hold leaded paint, which is why old paint must be handled with care.",
+      "box": "wrong",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "21 April 2004",
+      "era": "safe",
+      "art": "leaf",
+      "title": "Europe caps solvent in paint",
+      "who": "European Parliament and Council",
+      "where": "European Union",
+      "country": "European Union",
+      "text": "Directive 2004/42/EC set legal limits on the volatile organic compounds in decorative paints and varnishes, in two steps from 2007 and 2010.",
+      "why": "It pushed makers from solvent-based to water-based and low-solvent paints.",
+      "box": "wrong",
+      "sources": [
+        33,
+        37
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "safe",
+      "art": "earth",
+      "key": true,
+      "title": "A global alliance against lead paint",
+      "who": "UN Environment Programme and World Health Organization",
+      "where": "Worldwide",
+      "country": "International",
+      "text": "UNEP and WHO formed the Global Alliance to Eliminate Lead Paint to get every country to pass a binding law. In 2012 only 52 countries had one.",
+      "why": "It turned a patchwork of national bans into a worldwide campaign with a model law and a recommended limit of 90 parts per million.",
+      "box": "wrong",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "1 November 2016",
+      "era": "safe",
+      "art": "scroll",
+      "key": true,
+      "title": "India limits lead in paint",
+      "who": "Ministry of Environment, Forest and Climate Change",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Regulation of Lead Contents in Household and Decorative Paints Rules were notified under the Environment (Protection) Act. From 1 November 2017, such paints may hold no more than 90 parts per million of lead, and the tin must say so.",
+      "why": "It gave India one of the strictest limits in the world, on paper; enforcement is the task that remains.",
+      "box": "wrong",
+      "sources": [
+        28,
+        1
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "April 2023",
+      "era": "safe",
+      "art": "heatwaves",
+      "title": "A cool roof policy",
+      "who": "Government of Telangana",
+      "where": "Hyderabad, India",
+      "country": "India",
+      "text": "Telangana adopted a cool roof policy for 2023 to 2028, described as the first by an Indian state. It asks for roofs finished with solar-reflective paint, tiles or sheets, with a target of 300 square kilometres.",
+      "why": "White and reflective coatings are now a tool against heat, not only a finish.",
+      "sources": [
+        34
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "January 2024",
+      "era": "safe",
+      "art": "share",
+      "title": "Nearly half the world has a lead paint law",
+      "who": "World Health Organization",
+      "where": "Worldwide",
+      "country": "International",
+      "text": "WHO reported that, as of January 2024, 48% of countries had legally binding controls on lead paint. It states that there is no known safe blood lead concentration.",
+      "why": "More than half the world's countries still allow lead in new paint.",
+      "box": "wrong",
+      "sources": [
+        29
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known paint-making kit",
+      "value": "c. 100,000 years ago",
+      "who": "Blombos Cave, South Africa"
+    },
+    {
+      "label": "First synthetic pigment",
+      "value": "c. 3250 BCE",
+      "who": "Egyptian blue, Egypt"
+    },
+    {
+      "label": "Oldest known oil paintings",
+      "value": "c. 650 CE",
+      "who": "Bamiyan, Afghanistan"
+    },
+    {
+      "label": "First national ban on white lead paint in buildings",
+      "value": "1909",
+      "who": "France"
+    },
+    {
+      "label": "Titanium dioxide pigment first mass-produced",
+      "value": "1916",
+      "who": "Norway and USA"
+    },
+    {
+      "label": "First commercially successful waterborne wall paint",
+      "value": "1941",
+      "who": "Kem-Tone, Sherwin-Williams, USA"
+    },
+    {
+      "label": "Acrylic emulsion binder for house paint",
+      "value": "1953",
+      "who": "Rhoplex AC-33, Rohm and Haas, USA"
+    },
+    {
+      "label": "India's 90 ppm lead limit in force",
+      "value": "1 November 2017",
+      "who": "Ministry of Environment, Forest and Climate Change"
+    }
+  ],
+  "people": [
+    {
+      "name": "V. S. Wakankar",
+      "life": "1919 – 1988",
+      "role": "Archaeologist",
+      "from": "India",
+      "note": "Recognised the prehistoric paintings of Bhimbetka and reported the shelters in 1957."
+    },
+    {
+      "name": "Edme-Jean Leclaire",
+      "life": "1801 – 1872",
+      "role": "House painter and employer",
+      "from": "France",
+      "note": "Made zinc white oil paint on a large scale from 1845 so that his painters need not work with white lead."
+    },
+    {
+      "name": "Peder Farup",
+      "life": "active 1909 – 1916",
+      "role": "Chemist",
+      "from": "Norway",
+      "note": "Got near-pure titanium dioxide from ilmenite ore with sulfuric acid, the basis of the sulfate process."
+    },
+    {
+      "name": "Gustav Jebsen",
+      "life": "active 1910 – 1916",
+      "role": "Chemist and industrialist",
+      "from": "Norway",
+      "note": "Worked with Farup on the titanium white patents and chaired the Titan Company from 1916."
+    },
+    {
+      "name": "Roy H. Kienle",
+      "life": "active 1920s",
+      "role": "Chemist at General Electric",
+      "from": "USA",
+      "note": "Modified polyester resin with drying oils to make the alkyd, the binder of most enamels."
+    },
+    {
+      "name": "Paul Kubelka and Franz Munk",
+      "life": "paper of 1931",
+      "role": "Physicists",
+      "from": "Germany",
+      "note": "Wrote the two-flux sum that still predicts the hiding and colour of paint films."
+    },
+    {
+      "name": "Champaklal Choksey",
+      "life": "founder, 1942",
+      "role": "Entrepreneur",
+      "from": "India",
+      "note": "One of four friends who began Asian Paints in a Bombay garage during the Second World War."
+    },
+    {
+      "name": "Akira Fujishima",
+      "life": "born 1942",
+      "role": "Chemist",
+      "from": "Japan",
+      "note": "Discovered the photocatalytic activity of titanium dioxide, which explains chalking and enables self-cleaning coatings."
+    }
+  ],
+  "series": [
+    {
+      "id": "laws",
+      "title": "Countries with a binding law on lead in paint",
+      "unit": "countries",
+      "log": false,
+      "after": "safe",
+      "caption": "Counts reported by UNEP and WHO. By January 2024, 94 countries, 48% of the world's, had a legally binding control; in 2012 it was 52.",
+      "points": [
+        {
+          "year": 2012,
+          "value": 52,
+          "label": "2012: 52 countries (UNEP)"
+        },
+        {
+          "year": 2018,
+          "value": 71,
+          "label": "September 2018: 71 countries (UNEP update)"
+        },
+        {
+          "year": 2019,
+          "value": 73,
+          "label": "September 2019: 73 countries, 38% (UNEP update)"
+        },
+        {
+          "year": 2020,
+          "value": 79,
+          "label": "December 2020: 79 countries, 41% (UNEP update)"
+        },
+        {
+          "year": 2021,
+          "value": 84,
+          "label": "December 2021: 84 countries, 43% (WHO update)"
+        },
+        {
+          "year": 2022,
+          "value": 87,
+          "label": "October 2022: 87 countries (UNEP)"
+        },
+        {
+          "year": 2024,
+          "value": 94,
+          "label": "January 2024: 94 countries, 48% (WHO)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "All the paint on a wall, primer and two topcoats together, is about a tenth of a millimetre thick: roughly a sheet of paper.",
+    "White paint is white for the same reason as fog and milk: clear particles scattering light, not a white dye.",
+    "A coat of limewash takes about 40 grams of carbon dioxide from the air for every square metre as it turns back into limestone.",
+    "The murals of Ajanta are not true fresco: the colours were laid on dry plaster with glue.",
+    "The treaty against white lead in paint dates from 1921, yet in 2024 more than half the world's countries still had no binding lead paint law."
+  ],
+  "sources": [
+    {
+      "title": "Paint",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paint"
+    },
+    {
+      "title": "Lead paint",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lead_paint"
+    },
+    {
+      "title": "Titanium dioxide",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Titanium_dioxide"
+    },
+    {
+      "title": "Bhimbetka rock shelters",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters"
+    },
+    {
+      "title": "Lascaux",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lascaux"
+    },
+    {
+      "title": "Ajanta Caves",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "title": "Singh and Arbad: studies of the earthen plasters and painting technique of Ajanta",
+      "publisher": "International Journal of Conservation Science",
+      "url": "https://ijcs.ro/public/IJCS-14-04-Singh.pdf"
+    },
+    {
+      "title": "Egyptian blue",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_blue"
+    },
+    {
+      "title": "White lead",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_lead"
+    },
+    {
+      "title": "Whitewash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Whitewash"
+    },
+    {
+      "title": "Prussian blue",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prussian_blue"
+    },
+    {
+      "title": "Zinc oxide",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zinc_oxide"
+    },
+    {
+      "title": "Sherwin-Williams",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sherwin-Williams"
+    },
+    {
+      "title": "Shalimar Paints",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shalimar_Paints"
+    },
+    {
+      "title": "White Lead (Painting) Convention, 1921",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_Lead_(Painting)_Convention,_1921"
+    },
+    {
+      "title": "History of titanium dioxide whites",
+      "publisher": "WebExhibits: Pigments through the Ages",
+      "url": "https://www.webexhibits.org/pigments/indiv/history/tiwhite.html"
+    },
+    {
+      "title": "How a Norwegian chemist defeated lead paint",
+      "publisher": "Works in Progress",
+      "url": "https://worksinprogress.co/issue/how-a-norwegian-chemist-defeated-lead-paint"
+    },
+    {
+      "title": "Alkyd",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alkyd"
+    },
+    {
+      "title": "Alkyd resin",
+      "publisher": "CAMEO, Museum of Fine Arts, Boston",
+      "url": "https://cameo.mfa.org/wiki/Alkyd_resin"
+    },
+    {
+      "title": "Kubelka–Munk theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kubelka%E2%80%93Munk_theory"
+    },
+    {
+      "title": "Phthalocyanine Blue BN",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phthalocyanine_Blue_BN"
+    },
+    {
+      "title": "Waterborne Interior Paint: Kem-Tone Wall Finish (National Historic Chemical Landmark)",
+      "publisher": "American Chemical Society",
+      "url": "https://www.acs.org/education/whatischemistry/landmarks/kem-tone.html"
+    },
+    {
+      "title": "Asian Paints",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asian_Paints"
+    },
+    {
+      "title": "Glidden Company",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/glidden-company"
+    },
+    {
+      "title": "Rhoplex AC-33",
+      "publisher": "CAMEO, Museum of Fine Arts, Boston",
+      "url": "https://cameo.mfa.org/wiki/Rhoplex_AC-33"
+    },
+    {
+      "title": "Paint roller",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paint_roller"
+    },
+    {
+      "title": "Acrylic paint",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Acrylic_paint"
+    },
+    {
+      "title": "Emulsion polymerization",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emulsion_polymerization"
+    },
+    {
+      "title": "Regulation on Lead Contents in Household and Decorative Paints Rules, 2016 (G.S.R. 1030(E), Ministry of Environment, Forest and Climate Change)",
+      "publisher": "India Environment Portal",
+      "url": "https://indiaenvironmentportal.org.in/reports-and-documents/regulation-on-lead-contents-in-household-and-decorative-paints-rules-2016"
+    },
+    {
+      "title": "Lead poisoning (fact sheet)",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health"
+    },
+    {
+      "title": "Inside the push to eliminate lead paint",
+      "publisher": "UN Environment Programme",
+      "url": "https://www.unep.org/news-and-stories/story/inside-push-eliminate-lead-paint"
+    },
+    {
+      "title": "2020 Update on the Global Status of Legal Limits on Lead in Paint",
+      "publisher": "UN Environment Programme",
+      "url": "https://www.unep.org/resources/report/2020-update-global-status-legal-limits-lead-paint"
+    },
+    {
+      "title": "Update on the global status of legal limits for lead in paint, March 2023",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/publications/i/item/9789240078093"
+    },
+    {
+      "title": "Directive 2004/42/EC on volatile organic compounds in paints and varnishes",
+      "publisher": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu/eli/dir/2004/42"
+    },
+    {
+      "title": "Telangana announces a groundbreaking cool roof policy",
+      "publisher": "Natural Resources Defense Council",
+      "url": "https://www.nrdc.org/bio/prima-madan/telangana-announces-groundbreaking-cool-roof-policy"
+    },
+    {
+      "title": "Drying oil",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drying_oil"
+    },
+    {
+      "title": "Vishnudharmottara Purana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vishnudharmottara_Purana"
+    },
+    {
+      "title": "Volatile Organic Compounds' Impact on Indoor Air Quality",
+      "publisher": "US Environmental Protection Agency",
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality"
+    },
+    {
+      "title": "2019 Update on the Global Status of Legal Limits on Lead in Paint",
+      "publisher": "UN Environment Programme",
+      "url": "https://www.unep.org/resources/report/2019-update-global-status-legal-limits-lead-paint"
+    },
+    {
+      "title": "Update on the Global Status of Legal Limits on Lead in Paint, September 2018",
+      "publisher": "UN Environment Programme",
+      "url": "https://wedocs.unep.org/20.500.11822/26481"
+    }
+  ]
+}
